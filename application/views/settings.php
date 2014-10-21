@@ -135,7 +135,7 @@
 					<div id="tabs3">
 						<p>Here, you have the ability to select a background image and a profile image for your page. Please note that the profile image
 						will not appear until you submit the form.</p>
-						<p><label>Profile Image</label></p>
+						<p><label>Profile Image (max size 2MB)</label></p>
 						<p><input type="file" name="userfile" /></p>
 						<input type="hidden" name="profileimgval" value="<?php echo $object[0]['profileimg']; ?>">
 						<p><label>Background Image</label></p>
