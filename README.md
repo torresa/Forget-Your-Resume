@@ -10,7 +10,7 @@ students that use this tool will be able to:
  - Upload a profile image
 
 #How to Install
-This version uses the Codeigniter Mysql driver, hence you will have to change the database files and include your credentials. 
+This version uses the Codeigniter Mysql driver, hence you will have to change the database file (/application/config/database.php)  and include your credentials. 
 <!-- Forget the Resume was built for ease of use. Since it is built using SQLite as a database and the base url is set dynamically, all you have to do is *upload the directory* to your server. -->
 
 <!-- I have created a small video series on Youtube to help you get up and running quickly with Forget the Resume.
